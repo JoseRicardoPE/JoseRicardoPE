@@ -5,7 +5,7 @@ My name is Ricardo, and I am from Bogotá / Colombia.
 ⭐ Currently I'm studying at a Bootcamp full-time as a developer web full-stack in Hack Academy (Uruguay).
 ⭐ I offer my services as a front-end web developer and can apply my skills and knowledge.
 
-## Skills 💯
+## Skills 🎖️
 
 ⭐ HTML5.
 ⭐ CSS3.
