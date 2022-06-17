@@ -20,6 +20,5 @@ My name is Ricardo, and I am from Bogotá / Colombia.
 
 ⭐ Find me in my social networks:
 ⭐ Linkedin: https://www.linkedin.com/in/jose-ricardo-pacheco-escobar-a2a76422b/
-⭐ whatsapp: +57 3112360676
 ⭐ Gmail: ricardo.pachecescobar@gmail.com
 
