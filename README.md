@@ -1,11 +1,11 @@
-# # Hello friends 👋
+## Hello friends 👋
 
 My name is Ricardo, and I am from Bogotá / Colombia.
 
 ⭐ Currently I'm studying at a Bootcamp full-time as a developer web full-stack in Hack Academy (Uruguay).
 ⭐ I offer my services as a front-end web developer and can apply my skills and knowledge.
 
-# # Skills 💯
+## Skills 💯
 
 ⭐ HTML5.
 ⭐ CSS3.
@@ -16,7 +16,7 @@ My name is Ricardo, and I am from Bogotá / Colombia.
 ⭐ MySQL + MongoDB.
 ⭐ Git + Github.
 
-# # Contact ☎️
+## Contact ☎️
 
 ⭐ Find me in my social networks:
 ⭐ Linkedin: https://www.linkedin.com/in/jose-ricardo-pacheco-escobar-a2a76422b/
