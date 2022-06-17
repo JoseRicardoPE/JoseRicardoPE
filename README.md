@@ -16,7 +16,7 @@ My name is Ricardo, and I am from Bogotá / Colombia.
 ⭐ MySQL + MongoDB.
 ⭐ Git + Github.
 
-## Contact ☎️
+## Contact ✨
 
 ⭐ Find me in my social networks:
 ⭐ Linkedin: https://www.linkedin.com/in/jose-ricardo-pacheco-escobar-a2a76422b/
