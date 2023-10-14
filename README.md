@@ -11,7 +11,7 @@ My name is Ricardo, and I am from Bogotá / Colombia.
 ⭐ CSS3.
 ⭐ Bootstrap.
 ⭐ JavaScript.
-⭐ React.
+⭐ Angular.
 ⭐ Node.js + Express.
 ⭐ MySQL + MongoDB.
 ⭐ Git + Github.
