@@ -7,7 +7,7 @@ I specialize in building web applications using **Angular and TypeScript**, with
 - Version control using **Git and GitHub**
 - Collaborative workflows with **pull requests**
 - Bug fixing and code improvements
-- Deploying frontend applications with **GitHub Pages**
+- Deploying frontend applications
 - Creating **responsive layouts** from Figma designs
 
 ---
@@ -21,6 +21,7 @@ Frontend game focused on logic, keyboard events, and structured styles using **S
 
 🎮 **Hangman Game (Angular)**  
 Responsive web game with emphasis on UI adaptability and user interaction.  
+🔗 Live Demo: https://josericardope.github.io/hangman-game-app/
 🔗 Repository: https://github.com/JoseRicardoPE/hangman-game-app
 
 ---
