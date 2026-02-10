@@ -39,6 +39,6 @@ Responsive web game with emphasis on UI adaptability and user interaction.
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jose-ricardo-pacheco-escobar-a2a76422b/
+- 💼 LinkedIn: https://www.linkedin.com/in/ricardo-pacheco-escobar-a2a76422b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 Email: ricardo.pachecescobar@gmail.com
 
